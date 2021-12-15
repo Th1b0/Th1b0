@@ -6,8 +6,8 @@
 
 ## I'm Beginner dev
 
-- I’m currently learning everything
-- I’m making sites; game and discord bots 
+
+- I make: sites, games and discord bots 
 - I’m currently learning Js and python
 
 ### My socials:
