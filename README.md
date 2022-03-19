@@ -4,11 +4,11 @@
 [![Website](https://img.shields.io/website?label=Thibokuijpers.com&style=for-the-badge&url=https%3A%2F%2Fthibokuijpers.com)](https://www.thibokuijpers.com)
 
 
-## I'm Beginner dev
+## Full stack dev in progress
 
 
-- I make: sites, games and discord bots 
-- I’m currently learning Js and python
+- I make static sites
+- I’m currently learning backend with node.js/php and front-end frameworks
 
 ### My socials:
 
