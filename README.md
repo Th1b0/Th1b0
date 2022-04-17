@@ -8,7 +8,7 @@
 
 
 - I make static sites
-- I’m currently learning backend with node.js/php and front-end frameworks
+- I’m currently learning backend with node.js and front-end frameworks
 
 ### My socials:
 
@@ -34,7 +34,7 @@
 
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=btwthibo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th1b0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
