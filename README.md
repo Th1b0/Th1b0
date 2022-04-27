@@ -4,11 +4,11 @@
 [![Website](https://img.shields.io/website?label=Thibokuijpers.com&style=for-the-badge&url=https%3A%2F%2Fthibokuijpers.com)](https://www.thibokuijpers.com)
 
 
-## Full stack dev in progress
+## What do I make?
 
 
-- I make static sites
-- I’m currently learning backend with node.js and front-end frameworks
+- I make full stack web applications
+- I make c/cpp and python programs
 
 ### My socials:
 
@@ -27,7 +27,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/cpp.png" />
 
 
 <br><br>
