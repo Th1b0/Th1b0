@@ -1,6 +1,4 @@
 ### Hi there, I'm Thibo 
-[Website]
-
 [![Website](https://img.shields.io/website?label=thibokuijpers.be&style=for-the-badge&url=https%3A%2F%2Fthibokuijpers.be)](https://thibokuijpers.be)
 
 
