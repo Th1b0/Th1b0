@@ -11,24 +11,24 @@ There is no definitive answer as I love engaging in a multitude of activities. I
 
 #### Languages
 - Typescript
-- Python
 - C#
 - Go
-- Rust
 - Kotlin
 
 #### Tools, Software, Os
 - Vs Code
 - Visual Studio
-- Unreal engine 5
+- NeoVim
 - MariaDB
+- PostgresSQL
 - MongoDB
 - Redis
 - Appache
+- Nginx
 - Android Studio
 - Insomnia
 - Debian
-- Arch
+- Ubuntu
 
 
 <br><br>
