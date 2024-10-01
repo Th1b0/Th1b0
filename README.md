@@ -3,29 +3,25 @@
 [![Website](https://img.shields.io/website?label=webbo.dev&style=for-the-badge&url=https%3A%2F%2Fwebbo.dev)](https://webbo.dev)
 
 
+## About Me
 
-## What do i do?
+I'm a **young Computer Science student** at the **University of Hasselt**, passionate about building high-performance applications and optimizing environments for speed. Alongside my studies, I run **[Webbo](https://your-website-link.com)**, a business dedicated to crafting **fast, scalable websites, applications**, and providing **reliable hosting solutions** for various projects.
 
-There is no definitive answer as I love engaging in a multitude of activities. I am particularly passionate about crafting cutting-edge smartphone applications, delving into the intricacies of frontend development, and honing my skills in backend programming. Additionally, the creation and advancement of innovative IoT devices captivate my interest. Lastly, I derive immense satisfaction from designing and developing specialized software aimed at automating tasks and streamlining various aspects of my life, both offline and in the digital realm. Furthermore, I am constantly seeking new avenues to expand my repertoire, exploring emerging technologies and staying abreast of the latest trends in the ever-evolving landscape of technology. I find great joy in the relentless pursuit of knowledge, continuously challenging myself to push the boundaries of my abilities and create remarkable solutions. With an insatiable curiosity and an unwavering dedication to excellence, I am driven to unravel the limitless possibilities that lie within the realm of technology.
+I’m a **Linux enthusiast**—daily driving **Debian** on both server and desktop environments, with **Neovim** as my go-to editor. Recently, I've started exploring the world of **Machine learning and AI** and am excited to build some cutting-edge solutions.
 
 
 ### Languages and Tools:
 
 #### Languages
-- Typescript
-- C#
 - Go
-- Kotlin
+- Python
+- Javascript
+- Dart
 
 #### Tools, Software, Os
-- Vs Code
-- Visual Studio
 - NeoVim
-- MariaDB
 - PostgresSQL
-- MongoDB
 - Redis
-- Appache
 - Nginx
 - Android Studio
 - Insomnia
@@ -44,7 +40,5 @@ There is no definitive answer as I love engaging in a multitude of activities. I
 <br />
 <br />
 
-[website]: https://thibokuijpers.com
-[twitter]: https://twitter.com/Th1b01
-[instagram]: https://instagram.com/thibo_kuijpers
+[website]: https://thibokuijpers.be
 
