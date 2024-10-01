@@ -23,10 +23,12 @@ I’m a **Linux enthusiast**—daily driving **Debian** on both server and deskt
 - PostgresSQL
 - Redis
 - Nginx
-- Android Studio
 - Insomnia
 - Debian
 - Ubuntu
+- KVM
+- LXD
+- Docker
 
 
 <br><br>
