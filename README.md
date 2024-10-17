@@ -29,16 +29,8 @@ I’m a **Linux enthusiast**—daily driving **Debian** on both server and deskt
 - Ubuntu
 - KVM
 - LXD
-- Docker
+- Docker<br />
 ...
-
-<br><br>
-
-
----
-[![Thibo's github stats](https://github-readme-stats.vercel.app/api?username=Th1b0)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <br />
 <br />
