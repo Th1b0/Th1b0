@@ -5,9 +5,9 @@
 
 ## About Me
 
-I'm a **young Computer Science student** at the **University of Hasselt**, passionate about building high-performance applications and optimizing environments for speed. Alongside my studies, I run **[Webbo](https://your-website-link.com)**, a business dedicated to crafting **fast, scalable websites, applications**, and providing **reliable hosting solutions** for various projects.
+I'm a **young Computer Science student** at the **University of Hasselt**, passionate about building high-performance applications and optimizing environments for speed. Alongside my studies, I run **[Webbo](https://webbo.dev)**, a business dedicated to crafting **fast, scalable websites, applications**, and providing **reliable hosting solutions** for various projects.
 
-I’m a **Linux enthusiast**—daily driving **Debian** on both server and desktop environments, with **Neovim** as my go-to editor. Recently, I've started exploring the world of **Machine learning and AI** and am excited to build some cutting-edge solutions.
+I’m a **Linux enthusiast**—daily driving **Debian** on both server and desktop environments, with **Neovim** as my go-to editor. Recently, I've started exploring the world of **Machine learning and AI**. I am excited to connect and trasform futures by developing digital solutions.
 
 
 ### Languages and Tools:
@@ -16,7 +16,8 @@ I’m a **Linux enthusiast**—daily driving **Debian** on both server and deskt
 - Go
 - Python
 - Javascript
-- Dart
+- Dart 
+- Rust
 
 #### Tools, Software, Os
 - NeoVim
@@ -29,13 +30,13 @@ I’m a **Linux enthusiast**—daily driving **Debian** on both server and deskt
 - KVM
 - LXD
 - Docker
-
+...
 
 <br><br>
 
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Th1b0)](https://github.com/anuraghazra/github-readme-stats)
+[![Thibo's github stats](https://github-readme-stats.vercel.app/api?username=Th1b0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -43,4 +44,5 @@ I’m a **Linux enthusiast**—daily driving **Debian** on both server and deskt
 <br />
 
 [website]: https://thibokuijpers.be
+
 
